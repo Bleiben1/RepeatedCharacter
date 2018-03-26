@@ -5,3 +5,4 @@ def checker(word):
             return i
         keymap[i] = 1
     return None
+
